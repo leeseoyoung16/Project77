@@ -36,6 +36,7 @@ inc_insertion_sort(int list[], int first, int last, int gap)
 	}
 }
 
+
 void shell_sort(int list[], int n)   // n = size
 {
 	int i, gap;
